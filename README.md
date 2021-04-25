@@ -22,5 +22,5 @@ Some things about me:
 <span style="display: inline-block;">
  <img style="float: left; padding-right: 20%;" alt="Marcos Plaza GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcosPlaza&show_icons=true&hide_border=true&theme=dracula">
 
-<img style="float: right;" alt="Used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosPlaza&theme=dracula">
+<img style="float: right;" alt="Used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosPlaza&show_icons=true&hide_border=true&theme=dracula">
 </span>
