@@ -10,7 +10,7 @@ Some things about me:
 - 🪲 I’m currently working on *Ransomware developement* using `Python` and other libraries.
 - 🐍 Familiarised with the most famous `Python` libraries like; `Numpy, SciPy, Keras Tensorflow...`.
 - 🏃 Familiarised with *AGILE* methodologies; Scrum and Kanban.
-- 🦾 Programming in different languages and frameworks. Mainly; Java, HTML/CSS/Js (JQuery, Prototype, Ajax...), Php, C/C++, Python (Django, Flask), Shell scripting, Kotlin...
+- 🦾 Programming in different languages and frameworks. Mainly; **Java, HTML/CSS/Js (JQuery, Prototype, Ajax...), Php, C/C++, Python (Django, Flask), Shell scripting, Kotlin**...
 - 👯 I’m looking to collaborate on *open source* projects.
 - 💬 Very interested in developing *Indie videogames* 👾, and producing *music* 🎹!
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/marcos-plaza-gonzàlez-785a141b1/)
@@ -20,5 +20,4 @@ Some things about me:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=marcosPlaza&show_icons=true&theme=onedark).
 
-- My repository languages:  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosPlaza&theme=dracula).
