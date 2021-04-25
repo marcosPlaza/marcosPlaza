@@ -18,6 +18,13 @@ Some things about me:
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=marcosPlaza&show_icons=true&theme=onedark).
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosPlaza&theme=dracula).
+<div class="container-fluid">
+  <div class="row">
+    <div class="col">
+      <img alt="Marcos Plaza GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcosPlaza&show_icons=true&hide_border=true"><br/>
+    </div>
+    <div class="col">
+      <img alt="Used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosPlaza&theme=dracula"><br/>
+    </div>
+  </div>
+</div>
