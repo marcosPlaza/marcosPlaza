@@ -19,6 +19,6 @@ Some things about me:
 ---
 
 <span style="display: inline-block;">
-      <img alt="Marcos Plaza GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcosPlaza&show_icons=true&hide_border=true"><br/>
-      <img alt="Used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosPlaza&theme=dracula"><br/>
+      <div><img alt="Marcos Plaza GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcosPlaza&show_icons=true&hide_border=true"><br/></div>
+      <div><img alt="Used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosPlaza&theme=dracula"><br/></div>
 </span>
