@@ -2,10 +2,6 @@
 
 Let me introduce myself. I'm **Marcos Plaza** a computer engineering and data science student 👨🏽‍💻, interested in so many other fields, like web development 🕸☕️, computer vision 💻👁, videogame developement 👾🎮, hacking 🤍🎩, computer hardware 🛠⚙️ and **much more**. 
 Here you'll find some of my recent and older work. *Feel free to take a look on it* 👀🙌.
-<!--
-**marcosPlaza/marcosPlaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
----
 
 Some things about me:
 
