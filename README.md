@@ -17,8 +17,10 @@ Some things about me:
 - ⚡ Fun fact: Passionate about art, reading a lot of comic, manga and books, and keen on drawing and graphical design. Retro videogames and consoles as well as other computer systems collector (*Amiga 500, Spectrum, Apple II...*).
 
 ---
+### :octocat: Github STATS 📊
 
 <span style="display: inline-block;">
- <img style="float: left;" alt="Marcos Plaza GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcosPlaza&show_icons=true&hide_border=true&theme=dracula">
+ <img style="float: left; padding-right: 20%;" alt="Marcos Plaza GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcosPlaza&show_icons=true&hide_border=true&theme=dracula">
+
 <img style="float: right;" alt="Used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosPlaza&theme=dracula">
 </span>
