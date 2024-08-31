@@ -5,7 +5,7 @@ Here you'll find some of my recent and older work. *Feel free to take a look on 
 
 Some things about me:
 
-- 👨🏽‍💻 I'm 22.
+- 👨🏽‍💻 I'm 25.
 - 🧠 Currently i'm learning a lot while finishing my degree. I'll start data science master very soon!
 - 🪲 I’m currently working on *Ransomware developement* using `Python` and other libraries.
 - 🐍 Familiarised with the most famous `Python` libraries like; `Numpy, SciPy, Keras Tensorflow...`.
